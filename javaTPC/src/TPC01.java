@@ -1,9 +1,9 @@
-public class Main {
+import javax.swing.*;
 
+public class TPC01 {
     public static void main(String[] args) {
         //2022.01.07 javaTPC start
-        //소스트리
-        //수정       
+        //sout Ctrl space
         System.out.println("Hello world!");
 
     }
