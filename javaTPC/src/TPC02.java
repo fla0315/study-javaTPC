@@ -47,6 +47,20 @@ public class TPC02 {
         bool = false;
         System.out.println("boolean = "+ bool);
 
+        /*
+            1. 변수 , 자료형 , 할당
+
+            1. 변수 (Variable)
+                ㄴ 데이터를 저장할 메모리에 공간의 이름
+            2. 자료형 (Data Type)
+                ㄴ 변수의 크기와 변수에 저장될 데이터의 종류를 결정하는 것
+            3. 할당 (Assign)
+                ㄴ 변수에 값을 저장(대입,할당)하는 것
+
+            * 변수선언 - 메모리에 변수(기억공간)를 만드는 것
+            * 할당  a = b  -> b의 값을 a에 할당하는 것
+
+        */
 
     }//end
 
