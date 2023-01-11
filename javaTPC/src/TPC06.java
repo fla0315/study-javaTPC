@@ -1,4 +1,4 @@
-public class TCP06 {
+public class TPC06 {
 
     public static void main(String[] args) {
         //TPC06 변수와 메서드
