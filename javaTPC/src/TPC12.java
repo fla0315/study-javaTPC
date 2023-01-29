@@ -18,7 +18,7 @@ public class TPC12 {
          * */
 
         BookVO vo = new BookVO();
-        // 객체가 생성되며 생성자로 초기화
+        // 객체가 생성되며 생성자로 초기화ㄱㄱㄱ
         
         //  생성자를 통해 초기화된 값 호출
         String title = vo.title;
@@ -56,6 +56,9 @@ public class TPC12 {
         System.out.println("price3   = "+ vo3.price);
         System.out.println("company3 = "+ vo3.company);
         System.out.println("page3    = "+ vo3.page);
+        System.out.println();
+
+        BookVO
 
     }
 }
