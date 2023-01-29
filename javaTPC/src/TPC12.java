@@ -58,7 +58,6 @@ public class TPC12 {
         System.out.println("page3    = "+ vo3.page);
         System.out.println();
 
-        BookVOasdaasd
 
     }
 }
